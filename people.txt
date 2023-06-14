@@ -1,0 +1,3 @@
+Christian;Rodriguez;Mexica 281;Coatzacoalcos;Veracruz;96566;9211419496;jair25@gmail.com
+Juan;Hernandez;Juan Escutia 123;Coatzacoalcos;Veracruz;98201;9211091920;juan08@gmail.com
+Victor;Grimaldo;Banderas 112;Coatzacoalcos;Veracruz;98207;9218292012;victoriana@gmail.com
